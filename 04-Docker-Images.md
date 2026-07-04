@@ -547,7 +547,7 @@ git commit -m "Add Docker Images guide"
 
 # 🚀 What's Next?
 
-In **[Chapter 05 – Docker Containers] (05-Docker-Containers.md)**, you'll learn:
+In | [Chapter 05 – Docker Containers](05-Docker-Containers.md)|, you'll learn:
 
 - 📦 What is a Docker Container?
 - ▶️ Create & Run Containers
